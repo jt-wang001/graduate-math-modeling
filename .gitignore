@@ -5,3 +5,8 @@
 .DS_Store
 Thumbs.db
 
+cases/2024C/data/raw/
+cases/2024C/data/processed/*.csv
+cases/2024C/data/processed/*.parquet
+__pycache__/
+*.pyc
